@@ -8,7 +8,6 @@ function App() {
 
   return (
     <>
-      
       <Routes>
         <Route path="/" element={<Avaleht />}/>
         <Route path="/lisa" element={<LisaJook />}/>
